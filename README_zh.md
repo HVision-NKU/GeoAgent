@@ -2,7 +2,7 @@
 
 <h1>GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristic</h1>
 
-</div>
+
 
 [**Modi Jin**](https://ghost233lism.github.io/)<sup>1</sup> · [**Yiming Zhang**](https://zhang-yi-ming.github.io/)<sup>1</sup> · [**Boyuan Sun**](https://bbbbchan.github.io/)<sup>1</sup> · [**Dingwen Zhang**](https://zdw-nwpu.github.io/dingwenz.github.com/)<sup>2</sup> · [**Mingming Cheng**](https://mmcheng.net/)<sup>1</sup> · [**Qibin Hou**](https://houqb.github.io/)<sup>1&dagger;</sup>
 
@@ -16,6 +16,8 @@
 <a href='https://huggingface.co/datasets/ghost233lism/GeoSeek'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-GeoSeek_Dataset-purple'></a>
 <a href='https://huggingface.co/ghost233lism/GeoAgent'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 <a href='https://huggingface.co/spaces/ghost233lism/GeoAgent'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-orange' alt='Demo'></a>
+
+</div>
 
 ![teaser](assets/teaser.png)
 
@@ -122,6 +124,6 @@ Coming soon...
 我们还要感谢 [Zhixiang Wang](https://tuxun.fun/)、[Chilin Chen](https://tuxun.fun/)、[Jincheng Shi](https://tuxun.fun/)、[Liupeng Zhang](https://tuxun.fun/)、[Yuan Gu](https://tuxun.fun/)、[Yanghang Shao](https://tuxun.fun/)、[Jinhua Zhang](https://tuxun.fun/)、[Jiachen Zhu](https://tuxun.fun/)、[Gucheng Qiuyue](https://tuxun.fun/)、[Qingyang Guo](https://tuxun.fun/)、[Jingchen Yang](https://tuxun.fun/)、[Weilong Kong](https://tuxun.fun/)、[Xinyuan Li](https://tuxun.fun/) 以及 [Dawei Xu](https://tuxun.fun/) 在提供高质量推理过程数据方面的杰出贡献。
 
 
-<p>
+<p align="center">
 <img src="https://api.star-history.com/svg?repos=HVision-NKU/GeoAgent&type=Date" style="width:70%"/>
 </p>

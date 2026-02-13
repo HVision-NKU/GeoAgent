@@ -134,8 +134,8 @@ We sincerely thank [Yue Zhang](https://tuxun.fun/), [H.M.](https://space.bilibil
 We also thank [Zhixiang Wang](https://tuxun.fun/), [Chilin Chen](https://tuxun.fun/), [Jincheng Shi](https://tuxun.fun/), [Liupeng Zhang](https://tuxun.fun/), [Yuan Gu](https://tuxun.fun/), [Yanghang Shao](https://tuxun.fun/), [Jinhua Zhang](https://tuxun.fun/), [Jiachen Zhu](https://tuxun.fun/), [Gucheng Qiuyue](https://tuxun.fun/), [Qingyang Guo](https://tuxun.fun/), [Jingchen Yang](https://tuxun.fun/), [Weilong Kong](https://tuxun.fun/), [Xinyuan Li](https://tuxun.fun/), and [Mr. Xu](https://tuxun.fun/) (an anonymous volunteer) 
 for their outstanding contributions in providing high-quality reasoning process data.
 
-<p>
-<img src="https://api.star-history.com/svg?repos=HVision-NKU/GeoAgent&type=Date" style="width:70%"/>
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=HVision-NKU/GeoAgent&type=Date" style="width:70%"/>
 </p>
 
 
