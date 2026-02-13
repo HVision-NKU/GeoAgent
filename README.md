@@ -127,7 +127,7 @@ For technical questions, please contact jin_modi[AT]mail.nankai.edu.cn
 
 For commercial licensing, please contact andrewhoux[AT]gmail.com.
 
-## Acknowledgements
+## Acknowledgments
 
 We sincerely thank [Yue Zhang](https://tuxun.fun/), [H.M.](https://space.bilibili.com/1655209518?spm_id_from=333.337.0.0), [Haowen He](https://space.bilibili.com/111714204?spm_id_from=333.337.0.0), [Yuke Jun](https://space.bilibili.com/93569847?spm_id_from=333.337.0.0), and other experts in geography, as well as outstanding geolocation game players, for their valuable guidance, prompt design suggestions, and data support throughout the construction of the GeoSeek dataset.
 
