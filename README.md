@@ -2,7 +2,7 @@
 
 <h1>GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristic</h1>
 
-</div>
+
 
 [**Modi Jin**](https://ghost233lism.github.io/)<sup>1</sup> · [**Yiming Zhang**](https://zhang-yi-ming.github.io/)<sup>1</sup> · [**Boyuan Sun**](https://bbbbchan.github.io/)<sup>1</sup> · [**Dingwen Zhang**](https://zdw-nwpu.github.io/dingwenz.github.com/)<sup>2</sup> · [**Mingming Cheng**](https://mmcheng.net/)<sup>1</sup> · [**Qibin Hou**](https://houqb.github.io/)<sup>1&dagger;</sup>
 
@@ -16,6 +16,8 @@
 <a href='https://huggingface.co/datasets/ghost233lism/GeoSeek'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-GeoSeek_Dataset-purple'></a>
 <a href='https://huggingface.co/ghost233lism/GeoAgent'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
 <a href='https://huggingface.co/spaces/ghost233lism/GeoAgent'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demo-orange' alt='Demo'></a>
+
+</div>
 
 ![teaser](assets/teaser.png)
 
