@@ -1,0 +1,28 @@
+# GeoAgent Requirements (core packages only)
+
+# Model & training
+transformers>=4.55.0
+accelerate>=1.10.0
+peft>=0.17.0
+deepspeed>=0.16.0
+
+# Efficient attention & inference
+flash-attn>=2.7.4
+vllm>=0.8.5
+
+# Qwen2.5-VL support
+qwen-vl-utils>=0.0.10
+
+# Model download
+modelscope>=1.30.0
+
+# Geolocation (reward/metric)
+geopy>=2.4.0
+
+# Utilities
+tqdm>=4.67.0
+numpy>=1.26.0
+requests>=2.32.0
+Pillow>=11.0.0
+av==10.0.0
+qwen_vl_utils==0.0.10
