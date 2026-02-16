@@ -12,6 +12,7 @@
 
 **English | [简体中文](README_zh.md)**
 
+<a href="https://arxiv.org/abs/2602.12617"><img src='https://img.shields.io/badge/Paper-2602.12617-red' alt='Paper PDF'></a>
 <a href="https://ghost233lism.github.io/GeoAgent-page/"><img src='https://img.shields.io/badge/Project-Page-green' alt='Project Page'></a>
 <a href='https://huggingface.co/datasets/ghost233lism/GeoSeek'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-GeoSeek_Dataset-purple'></a>
 <a href='https://huggingface.co/ghost233lism/GeoAgent'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue'></a>
