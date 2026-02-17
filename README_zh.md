@@ -37,8 +37,10 @@ GeoAgent 的主要贡献包括：
 
 ## 新闻
 
-- **2026-02-13** 🔥 GeoAgent 代码开源
-- **2026-02-13** 🔥 GeoAgent 模型与 GeoSeek 数据集发布
+**2026-02-17:** 🚀 GeoAgent 入选 [HuggingFace Daily Papers](https://huggingface.co/papers/date/2026-02-16) 当日论文 **第 6 名**。
+- **2026-02-16:** 🔥 [GeoAgent](https://arxiv.org/abs/2602.12617) 论文发布。
+- **2026-02-13:** 🔥 GeoAgent 代码开源。
+- **2026-02-13:** 🔥 GeoAgent 模型与 GeoSeek 数据集发布。
 
 ## TODO
 

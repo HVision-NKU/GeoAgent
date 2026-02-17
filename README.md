@@ -45,8 +45,8 @@ We also introduce **GeoSeek**, which is a new geolocation dataset comprising:
 
 ## News
 
-<!-- **2025-07-03:** 🚀  DepthAnything-AC was ranked **#3 Paper of the Day** on [HuggingFace Daily Papers](https://huggingface.co/papers/date/2025-07-03).
-- **2025-07-03:** 🔥  The paper of [DepthAnything-AC](https://arxiv.org/abs/2507.01634) is released.  -->
+**2026-02-17:** 🚀  GeoAgent was ranked **#6 Paper of the Day** on [HuggingFace Daily Papers](https://huggingface.co/papers/date/2026-02-16).
+- **2026-02-16:** 🔥  The paper of [GeoAgent](https://arxiv.org/abs/2602.12617) is released. 
 - **2026-02-13:**  🔥 The code of GeoAgent is released.
 - **2026-02-13:** 🔥  The GeoAgent model and GeoSeek dataset are released 
 
@@ -139,7 +139,7 @@ For commercial licensing, please contact andrewhoux[AT]gmail.com.
 
 We sincerely thank [Yue Zhang](https://tuxun.fun/), [H.M.](https://space.bilibili.com/1655209518?spm_id_from=333.337.0.0), [Haowen He](https://space.bilibili.com/111714204?spm_id_from=333.337.0.0), [Yuke Jun](https://space.bilibili.com/93569847?spm_id_from=333.337.0.0), and other experts in geography, as well as outstanding geolocation game players, for their valuable guidance, prompt design suggestions, and data support throughout the construction of the GeoSeek dataset.
 
-We also thank [Zhixiang Wang](https://tuxun.fun/), [Chilin Chen](https://tuxun.fun/), [Jincheng Shi](https://tuxun.fun/), [Liupeng Zhang](https://tuxun.fun/), [Yuan Gu](https://tuxun.fun/), [Yanghang Shao](https://tuxun.fun/), [Jinhua Zhang](https://tuxun.fun/), [Jiachen Zhu](https://tuxun.fun/), [Gucheng Qiuyue](https://tuxun.fun/), [Qingyang Guo](https://tuxun.fun/), [Jingchen Yang](https://tuxun.fun/), [Weilong Kong](https://tuxun.fun/), [Xinyuan Li](https://tuxun.fun/), and [Mr. Xu](https://tuxun.fun/) (an anonymous volunteer) 
+We also thank [Zhixiang Wang](https://tuxun.fun/), [Chilin Chen](https://tuxun.fun/), [Jincheng Shi](https://tuxun.fun/), [Liupeng Zhang](https://tuxun.fun/), [Yuan Gu](https://tuxun.fun/), [Yanghang Shao](https://tuxun.fun/), [Jinhua Zhang](https://tuxun.fun/), [Jiachen Zhu](https://tuxun.fun/), [Gucheng Qiuyue](https://tuxun.fun/), [Qingyang Guo](https://tuxun.fun/), [Jingchen Yang](https://tuxun.fun/), [Weilong Kong](https://tuxun.fun/), [Xinyuan Li](https://tuxun.fun/), and [Dawei Xu](https://tuxun.fun/) 
 for their outstanding contributions in providing high-quality reasoning process data.
 
 <p align="center">
