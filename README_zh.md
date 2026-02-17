@@ -103,7 +103,14 @@ bash tools/train_grpo.sh
 
 ## 引用
 
-Coming soon...
+```bibtex
+@article{jin2025geoagent,
+  title={GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics},
+  author={Jin, Modi and Zhang, Yiming and Sun, Boyuan and Zhang, Dingwen and Cheng, Ming-Ming and Hou, Qibin},
+  journal={arXiv preprint arXiv:2602.12617},
+  year={2026}
+}
+```
 
 ## 许可证
 
