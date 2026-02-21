@@ -45,7 +45,8 @@ We also introduce **GeoSeek**, which is a new geolocation dataset comprising:
 
 ## News
 
-**2026-02-17:** 🚀  GeoAgent was ranked **#6 Paper of the Day** on [HuggingFace Daily Papers](https://huggingface.co/papers/date/2026-02-16).
+- **2026-02-21:** 🔥  GeoAgent has been accepted by **CVPR'26!**
+- **2026-02-17:** 🚀  GeoAgent was ranked **#6 Paper of the Day** on [HuggingFace Daily Papers](https://huggingface.co/papers/date/2026-02-16).
 - **2026-02-16:** 🔥  The paper of [GeoAgent](https://arxiv.org/abs/2602.12617) is released. 
 - **2026-02-13:**  🔥 The code of GeoAgent is released.
 - **2026-02-13:** 🔥  The GeoAgent model and GeoSeek dataset are released 
